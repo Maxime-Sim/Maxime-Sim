@@ -16,7 +16,10 @@ Job<br>Name<br>Social<br>Skills<br>Work Actually
 ![](https://github-profile-trophy.vercel.app/?username=Maxime-Sim&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Maxime-Sim&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxime-Sim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maxime-Sim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Maxime-Sim&icon=5&color=0)](https://visitcount.itsvg.in)
