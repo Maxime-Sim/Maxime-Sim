@@ -53,14 +53,16 @@
 
 ###
 
-<h2 align="left">:trophy: My Github Stats</h2>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Maxim-Sim&theme=aura&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Maxim-Sim&theme=aura&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maxim-Sim&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Maxim-Sim&theme=aura&no-frame=false&no-bg=true&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxime-sim" alt="maxime-sim" /></a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Maxim-Sim&icon=7&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxime-Sim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Maxime-Sim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
 
 ###
