@@ -47,7 +47,7 @@
 
 ###
 
-<h2 align="left">## :trophy: My Github Stats</h2>
+<h2 align="left">:trophy: My Github Stats</h2>
 
 ###
 
