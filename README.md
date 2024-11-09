@@ -4,19 +4,21 @@
 
 ###
 
-<img align="left" height="150" src="https://media1.tenor.com/m/GbKNKL99i5wAAAAd/dandadan-okarun.gif"  />
-
-###
-
 <h2 align="left">Hi 👋! My name is Maxime and I'm a 22 old from france</h2>
 
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://www.twitch.tv/firefury__" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=flat" height="35" alt="twitch logo"  />
+  </a>
+  <a href="https://discord.com/channels/@firefury02400" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+  <a href="https://www.instagram.com/maxime_simn?igsh=Ymt5eXEyNXhvNHF2&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="35" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
@@ -49,6 +51,10 @@
 
 ###
 
+<img align="right" height="150" src="https://media1.tenor.com/m/GbKNKL99i5wAAAAd/dandadan-okarun.gif"  />
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maxime-Sim&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Maxime-Sim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -61,11 +67,5 @@
 <img src="https://raw.githubusercontent.com/Maxime-Sim/Maxime-Sim/output/snake.svg" alt="Snake animation" />
 
 ###
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Maxime-Sim/Maxime-Sim/output/snake.svg" alt="Snake animation" />
 
 ###
