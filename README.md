@@ -64,8 +64,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Maxime-Sim/Maxime-Sim/output/snake.svg" alt="Snake animation" />
-
 ###
 
 ###
