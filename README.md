@@ -2,13 +2,13 @@
 <img align="right" height="150" src="https://media1.tenor.com/m/GbKNKL99i5wAAAAd/dandadan-okarun.gif"  />
 
 🔭 I’m currently working on RPG Game 
-<br>
+<br><br>
 👯 I am currently training at Game Academy
-<br>
+<br><br>
 🌱 I’m currently learning modern c++
-<br>
+<br><br>
 💬 Ask me about on video games !
-<br>
+<br><br>
 ⚡ Fun fact : I have a knack to correct segmentation faults
 
 ## 🌐 Socials:
