@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   <img height="150" src="https://media1.tenor.com/m/GbKNKL99i5wAAAAd/dandadan-okarun.gif"  />
 </div>
 
