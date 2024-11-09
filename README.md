@@ -5,8 +5,6 @@
 <br>
 👯 I am currently training at Game Academy
 <br>
-🤝 I’m looking for help with
-<br>
 🌱 I’m currently learning modern c++
 <br>
 💬 Ask me about on video games !
