@@ -1,6 +1,17 @@
 # 💫 About Me:
 <img align="right" height="150" src="https://media1.tenor.com/m/GbKNKL99i5wAAAAd/dandadan-okarun.gif"  />
-Job<br>Name<br>Social<br>Skills<br>Work Actually 
+
+🔭 I’m currently working on RPG Game 
+<br>
+👯 I am currently training at Game Academy
+<br>
+🤝 I’m looking for help with
+<br>
+🌱 I’m currently learning modern c++
+<br>
+💬 Ask me about on video games !
+<br>
+⚡ Fun fact : I have a knack to correct segmentation faults
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/firefury02400) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/?) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/firefury__) 
