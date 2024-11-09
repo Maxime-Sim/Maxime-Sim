@@ -55,7 +55,6 @@
 
 <h2 align="left">:trophy: My Github Stats</h2>
 
-###
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxime-sim" alt="maxime-sim" /></a> </p>
 
