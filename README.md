@@ -3,9 +3,9 @@
 
 🔭 I’m currently working on RPG Game 
 <br><br>
-👯 I am currently training at Game Academy
+👯 I’m training at Game Academy
 <br><br>
-🌱 I’m currently learning modern c++
+🌱 I’m learning modern c++
 <br><br>
 💬 Ask me about on video games !
 <br><br>
