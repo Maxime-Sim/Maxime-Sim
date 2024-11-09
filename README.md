@@ -1,10 +1,8 @@
+# 💫 About Me:
+Job<br>Name<br>Social<br>Skills<br>Work Actually 
 <div align="center">
   <img height="150" src="https://media1.tenor.com/m/GbKNKL99i5wAAAAd/dandadan-okarun.gif"  />
 </div>
-
-# 💫 About Me:
-Job<br>Name<br>Social<br>Skills<br>Work Actually 
-
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/firefury02400) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/?) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/firefury__) 
