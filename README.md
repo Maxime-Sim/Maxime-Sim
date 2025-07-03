@@ -1,7 +1,7 @@
 # 💫 About Me:
 <img align="right" height="150" src="https://media1.tenor.com/m/GbKNKL99i5wAAAAd/dandadan-okarun.gif"  />
 
-🔭 I’m currently working on RPG Game 
+🔭 I’m currently working on Monstro Maestro
 <br><br>
 👯 I’m training at Game Academy
 <br><br>
